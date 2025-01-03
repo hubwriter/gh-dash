@@ -1,1 +1,1 @@
-End each response with a blank line followed by: "See you later!"
+End each response with a blank line followed by: "Custom instructions are being applied!"
